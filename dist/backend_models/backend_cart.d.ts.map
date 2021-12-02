@@ -1,0 +1,1 @@
+{"version":3,"file":"backend_cart.d.ts","sourceRoot":"","sources":["../../src/backend_models/backend_cart.ts"],"names":[],"mappings":"AAAA,OAAO,cAAc,MAAM,mBAAmB,CAAC;AAE/C,MAAM,WAAW,eAAe;IAC9B,OAAO,EAAE,cAAc,CAAC;IACxB,QAAQ,EAAE,MAAM,CAAC;CAClB;AAED,MAAM,CAAC,OAAO,WAAW,WAAW;IAClC,OAAO,EAAE,MAAM,CAAC;IAChB,KAAK,EAAE,eAAe,EAAE,CAAC;CAC1B"}

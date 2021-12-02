@@ -1,0 +1,1 @@
+{"version":3,"file":"discount.d.ts","sourceRoot":"","sources":["../../src/models/discount.ts"],"names":[],"mappings":"AAAA,oBAAY,aAAa,GAAG,MAAM,GAAG,YAAY,CAAC;AAElD,MAAM,CAAC,OAAO,WAAW,QAAQ;IAC/B,IAAI,EAAE,aAAa,CAAC;IACpB,MAAM,EAAE,MAAM,CAAC;IACf,SAAS,EAAE,MAAM,CAAC;CACnB"}

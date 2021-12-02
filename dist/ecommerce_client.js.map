@@ -1,0 +1,1 @@
+{"version":3,"file":"ecommerce_client.js","sourceRoot":"","sources":["../src/ecommerce_client.ts"],"names":[],"mappings":";;;;;AAAA,qFAA6D;AAC7D,sEAA8C;AAC9C,qEAA6C;AAC7C,mEAA2C;AAE3C,MAAqB,eAAe;IAApC;QACkB,cAAS,GAAc,IAAI,mBAAS,EAAE,CAAC;QACvC,mBAAc,GAAmB,IAAI,wBAAc,EAAE,CAAC;QACtD,UAAK,GAAU,IAAI,eAAK,EAAE,CAAC;QAC3B,aAAQ,GAAa,IAAI,kBAAQ,EAAE,CAAC;IACtD,CAAC;CAAA;AALD,kCAKC"}

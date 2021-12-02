@@ -1,0 +1,1 @@
+{"version":3,"file":"product_mapper.d.ts","sourceRoot":"","sources":["../../src/mappers/product_mapper.ts"],"names":[],"mappings":"AAAA,OAAO,cAAmC,MAAM,mCAAmC,CAAC;AACpF,OAAO,OAAO,MAAM,mBAAmB,CAAC;AAExC,MAAM,CAAC,OAAO,OAAO,aAAa;IACzB,SAAS,CAAC,IAAI,EAAE,cAAc,GAAG,OAAO;IAUxC,gBAAgB,CAAC,OAAO,EAAE,OAAO,GAAG,cAAc;CAqB1D"}

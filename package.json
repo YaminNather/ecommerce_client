@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce_client",
+  "version": "1.0.1",
+  "description": "Commerce client library to access backend for ecommerce app",
+  "main": "dist/index.js",
+  "types": "dist",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "",
+    "test": "tsnode src/testing/testing.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cross-fetch": "^3.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.1",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.1",
+    "typescript": "^4.4.3"
+  }
+}

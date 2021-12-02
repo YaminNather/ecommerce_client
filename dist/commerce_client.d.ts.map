@@ -1,0 +1,1 @@
+{"version":3,"file":"commerce_client.d.ts","sourceRoot":"","sources":["../src/commerce_client.ts"],"names":[],"mappings":"AAAA,OAAO,cAAc,MAAM,iCAAiC,CAAC;AAE7D,OAAO,SAAS,MAAM,uBAAuB,CAAC;AAE9C,OAAO,KAAK,MAAM,SAAS,CAAC;AAG5B,qBAAa,cAAc;gBACN,IAAI,CAAC,EAAE;QAAE,KAAK,CAAC,EAAE,KAAK,CAAA;KAAE;IAQ3C,SAAgB,SAAS,EAAE,SAAS,CAAmB;IACvD,SAAgB,cAAc,EAAE,cAAc,CAAwB;CACvE"}

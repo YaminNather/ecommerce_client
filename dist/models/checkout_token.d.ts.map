@@ -1,0 +1,1 @@
+{"version":3,"file":"checkout_token.d.ts","sourceRoot":"","sources":["../../src/models/checkout_token.ts"],"names":[],"mappings":"AAAA,OAAO,IAAI,MAAM,QAAQ,CAAC;AAE1B,MAAM,CAAC,OAAO,WAAW,aAAa;IACpC,EAAE,EAAE,MAAM,CAAC;IACX,OAAO,EAAE,MAAM,CAAC;IAChB,IAAI,EAAE,IAAI,CAAC;CACZ"}
